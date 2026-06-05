@@ -1,5 +1,5 @@
 # RAG-Chatbot
-Chat with your PDF documents using RAG — LangChain, FAISS/ChromaDB, HuggingFace/OpenAI, Streamlit &amp; FastAPI
+Chat with your PDF documents using RAG — LangChain, FAISS/ChromaDB, HuggingFace, Streamlit &amp; FastAPI
 # RAG PDF Assistant
 
 A Retrieval-Augmented Generation (RAG) application that allows users to upload PDF documents and ask questions about their content using LangChain, FAISS, Hugging Face, and Streamlit.
