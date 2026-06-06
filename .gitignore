@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# FAISS Index
+vectorstore/faiss_index/
+
+# Uploaded PDFs
+data/uploaded_pdfs/
+
+# OS Files
+.DS_Store
+Thumbs.db
