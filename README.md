@@ -48,12 +48,14 @@ streamlit run app.py
 
 ## Future Improvements
 
-* Multi-PDF Support
-* Source Citations
-* Chat History
-* LangGraph Integration
-* Hybrid Search (BM25 + Vector Search)
-* Deployment on Streamlit Cloud
+* Multiple PDF support
+* Chat history
+* Source citations (show page number)
+* Conversational memory
+* Modern LangChain create_retrieval_chain
+* Download chat as PDF
+* Dark/light theme
+* ChromaDB option
 
 ```
 ```
